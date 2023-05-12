@@ -3224,3 +3224,13 @@ input, select, textarea {
 			}
 
 	}
+
+.linkicons{
+	font-size:30px;
+	color:black;
+	margin-left:10px;
+}
+
+.linkicons:hover{
+	color:#3eb08f
+}
